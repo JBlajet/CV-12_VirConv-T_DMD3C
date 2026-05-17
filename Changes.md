@@ -1,5 +1,5 @@
 # Changes
-To use the model we forked the VirConv GitHub repository and made several changes to it.
+To use the model we forked the [VirConv GitHub repository](https://github.com/hailanyi/VirConv) and made several changes to it.
 
 The first modification was to change the models to output detection boxes for three classes.
 The model configurations are stored in yaml files in root/tools/cfgs/models/kitti. 
