@@ -5,7 +5,7 @@ A fork of: [VirConv](https://github.com/hailanyi/VirConv)
 
 Changes to repo can be found in Changes.md
 
-# Computer Vision Project 12 - Image+LiDAR-based 3D Object Detection.
+# Computer Vision Project 12 - Image+LiDAR-based 3D Object Detection
 
 Goal: Fuse complementary information from RGB cameras (appearance/texture) and LiDAR point clouds (accurate geometry/depth) to improve 3D detection accuracy and robustness, especially for distant, small, or partially occluded objects.
 
